@@ -11,7 +11,7 @@ import java.util.Hashtable;
 public class LoginTest extends BaseTest {
 
     @Test(dataProviderClass = Utilities.class, dataProvider = "dp")
-    public void LoginTest(Hashtable<String,String> data){
+    public void loginTest(Hashtable<String,String> data){
         HomePage home = new HomePage();
         LoginPage lp = home.goToLogin();
         lp.doLogin(data.get("username"),data.get("password"));

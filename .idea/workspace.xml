@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="67691ebd-253b-48dd-869f-f2b59122ec6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/comw2a/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/comw2a/testcases/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/com.w2a/logs/Application.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/com.w2a/logs/Application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/com.w2a/logs/Selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/com.w2a/logs/Selenium.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,7 +20,7 @@
     <session id="1203607991">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
@@ -55,7 +52,7 @@
           <entry key="java" value="2236" />
           <entry key="log" value="2" />
           <entry key="properties" value="178" />
-          <entry key="txt" value="39" />
+          <entry key="txt" value="40" />
           <entry key="xml" value="135" />
         </counts>
       </usages-collector>
@@ -66,7 +63,7 @@
         <counts>
           <entry key="JAVA" value="2236" />
           <entry key="Log" value="2" />
-          <entry key="PLAIN_TEXT" value="54" />
+          <entry key="PLAIN_TEXT" value="55" />
           <entry key="Properties" value="178" />
           <entry key="XML" value="135" />
         </counts>
@@ -129,7 +126,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/comw2a/testcases/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="-120">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -500,7 +497,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534051345916" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534051792795" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/w2a" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -628,7 +625,7 @@
       <workItem from="1533416078301" duration="16742000" />
       <workItem from="1533500484997" duration="17983000" />
       <workItem from="1534009370806" duration="1014000" />
-      <workItem from="1534010419524" duration="18501000" />
+      <workItem from="1534010419524" duration="18677000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;update vcs.xml&quot;">
       <created>1534047711757</created>
@@ -651,7 +648,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534051021583</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;5th commit&quot;">
+      <created>1534051666463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534051666463</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -687,12 +691,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59579000" />
+    <option name="totallyTimeSpent" value="59755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6095662" visible="true" weight="0.18710022" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6095662" visible="true" weight="0.18710022" />
       <window_info id="Structure" order="1" sideWeight="0.39043382" side_tool="true" weight="0.18123667" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -707,10 +711,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49967214" visible="true" weight="0.34149054" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49967214" weight="0.34149054" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4990164" weight="0.32925472" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003279" side_tool="true" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49836066" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50163937" side_tool="true" visible="true" weight="0.32925472" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49967214" weight="0.32925472" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -790,7 +794,8 @@
     <MESSAGE value="&quot;update vcs.xml&quot;" />
     <MESSAGE value="&quot;update workspace.xml&quot;" />
     <MESSAGE value="&quot;4th commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;4th commit&quot;" />
+    <MESSAGE value="&quot;5th commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;5th commit&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/comw2a/listeners/CustomListeners.java" />
@@ -1085,7 +1090,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/comw2a/testcases/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="-120">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
