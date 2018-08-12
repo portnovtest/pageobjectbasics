@@ -12,7 +12,7 @@ import java.util.Hashtable;
 
 public class LoginTest extends BaseTest {
 
-    @Test(dataProviderClass = Utilities.class, dataProvider = "dp")
+    @Test(dataProviderClass = Utilities.class, dataProvider = "dp", description = "Log into account")
     public void LoginTest(Hashtable<String,String> data){
         HomePage home = new HomePage();
         LoginPage lp = home.goToLogin();
