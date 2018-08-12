@@ -1,0 +1,21 @@
+14:52:02,664 DEBUG devpinoyLogger:66 - Config file loaded !!!
+14:52:02,668 DEBUG devpinoyLogger:78 - OR file loaded !!!
+14:52:06,699 DEBUG devpinoyLogger:115 - Navigated to : http://www.zoho.com/
+14:52:09,871 DEBUG devpinoyLogger:137 - Clicking on an Element : loginlink_CSS
+14:52:10,064 DEBUG devpinoyLogger:150 - Typing in an Element : email_CSS entered value as portnovtest+1@gmail.com
+14:52:10,148 DEBUG devpinoyLogger:150 - Typing in an Element : password_CSS entered value as mudeza123
+14:52:10,217 DEBUG devpinoyLogger:137 - Clicking on an Element : signbtn_CSS
+14:52:11,889 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:52:11,890 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:52:11,891 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:52:11,891 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:52:11,892 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/phild/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:52:15,894 DEBUG devpinoyLogger:137 - Clicking on an Element : crmlink_CSS
+14:52:16,027 DEBUG devpinoyLogger:137 - Clicking on an Element : accountstab_CSS
+14:52:16,267 DEBUG devpinoyLogger:137 - Clicking on an Element : createaccountbtn_CSS
+14:52:16,575 DEBUG devpinoyLogger:150 - Typing in an Element : accountname_CSS entered value as Raman
+14:52:16,902 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+14:52:16,903 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+14:52:16,903 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:52:16,903 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:52:16,903 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/phild/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

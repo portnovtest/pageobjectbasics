@@ -1,0 +1,11 @@
+11/08/2018 14:52:02 devpinoyLogger Config file loaded !!!
+11/08/2018 14:52:02 devpinoyLogger OR file loaded !!!
+11/08/2018 14:52:06 devpinoyLogger Navigated to : http://www.zoho.com/
+11/08/2018 14:52:09 devpinoyLogger Clicking on an Element : loginlink_CSS
+11/08/2018 14:52:10 devpinoyLogger Typing in an Element : email_CSS entered value as portnovtest+1@gmail.com
+11/08/2018 14:52:10 devpinoyLogger Typing in an Element : password_CSS entered value as mudeza123
+11/08/2018 14:52:10 devpinoyLogger Clicking on an Element : signbtn_CSS
+11/08/2018 14:52:15 devpinoyLogger Clicking on an Element : crmlink_CSS
+11/08/2018 14:52:16 devpinoyLogger Clicking on an Element : accountstab_CSS
+11/08/2018 14:52:16 devpinoyLogger Clicking on an Element : createaccountbtn_CSS
+11/08/2018 14:52:16 devpinoyLogger Typing in an Element : accountname_CSS entered value as Raman

@@ -1,0 +1,17 @@
+comw2a\base\Page.class
+comw2a\pages\crm\accounts\ImportsAccountsPage.class
+comw2a\pages\ZohoAppPage.class
+comw2a\utilities\Utilities.class
+comw2a\utilities\MonitoringMail$1.class
+comw2a\pages\crm\CRMHomePage.class
+comw2a\utilities\ExtentManager.class
+comw2a\pages\crm\accounts\AccountsPage.class
+comw2a\pages\HomePage.class
+comw2a\base\TopMenu.class
+comw2a\utilities\ExcelReader.class
+comw2a\utilities\TestConfig.class
+comw2a\utilities\MonitoringMail$SMTPAuthenticator.class
+comw2a\listeners\CustomListeners.class
+comw2a\utilities\MonitoringMail.class
+comw2a\pages\LoginPage.class
+comw2a\pages\crm\accounts\CreateAccountPage.class
