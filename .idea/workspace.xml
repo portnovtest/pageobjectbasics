@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67691ebd-253b-48dd-869f-f2b59122ec6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,6 +52,7 @@
           <entry key="java" value="2211" />
           <entry key="log" value="2" />
           <entry key="properties" value="178" />
+          <entry key="txt" value="15" />
           <entry key="xml" value="135" />
         </counts>
       </usages-collector>
@@ -63,7 +63,7 @@
         <counts>
           <entry key="JAVA" value="2211" />
           <entry key="Log" value="2" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="PLAIN_TEXT" value="30" />
           <entry key="Properties" value="178" />
           <entry key="XML" value="135" />
         </counts>
@@ -491,7 +491,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534047677563" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534047821447" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/w2a" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -619,8 +619,16 @@
       <workItem from="1533416078301" duration="16742000" />
       <workItem from="1533500484997" duration="17983000" />
       <workItem from="1534009370806" duration="1014000" />
-      <workItem from="1534010419524" duration="15832000" />
+      <workItem from="1534010419524" duration="16089000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;update vcs.xml&quot;">
+      <created>1534047711757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534047711757</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -656,7 +664,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56910000" />
+    <option name="totallyTimeSpent" value="57167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -678,9 +686,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32925472" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5003279" side_tool="true" visible="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49967214" visible="true" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49967214" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003279" side_tool="true" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49967214" weight="0.32925472" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -728,6 +736,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;update vcs.xml&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update vcs.xml&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/comw2a/listeners/CustomListeners.java" />
