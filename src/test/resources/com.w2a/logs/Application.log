@@ -1,11 +1,11 @@
-11/08/2018 22:11:04 devpinoyLogger Config file loaded !!!
-11/08/2018 22:11:04 devpinoyLogger OR file loaded !!!
-11/08/2018 22:11:12 devpinoyLogger Navigated to : http://www.zoho.com/
-11/08/2018 22:11:15 devpinoyLogger Clicking on an Element : loginlink_CSS
-11/08/2018 22:11:15 devpinoyLogger Typing in an Element : email_CSS entered value as portnovtest+1@gmail.com
-11/08/2018 22:11:15 devpinoyLogger Typing in an Element : password_CSS entered value as mudeza123
-11/08/2018 22:11:15 devpinoyLogger Clicking on an Element : signbtn_CSS
-11/08/2018 22:11:21 devpinoyLogger Clicking on an Element : crmlink_CSS
-11/08/2018 22:11:21 devpinoyLogger Clicking on an Element : accountstab_CSS
-11/08/2018 22:11:21 devpinoyLogger Clicking on an Element : createaccountbtn_CSS
-11/08/2018 22:11:22 devpinoyLogger Typing in an Element : accountname_CSS entered value as Raman
+11/08/2018 22:19:16 devpinoyLogger Config file loaded !!!
+11/08/2018 22:19:16 devpinoyLogger OR file loaded !!!
+11/08/2018 22:19:21 devpinoyLogger Navigated to : http://www.zoho.com/
+11/08/2018 22:19:24 devpinoyLogger Clicking on an Element : loginlink_CSS
+11/08/2018 22:19:24 devpinoyLogger Typing in an Element : email_CSS entered value as portnovtest+1@gmail.com
+11/08/2018 22:19:24 devpinoyLogger Typing in an Element : password_CSS entered value as mudeza123
+11/08/2018 22:19:24 devpinoyLogger Clicking on an Element : signbtn_CSS
+11/08/2018 22:19:30 devpinoyLogger Clicking on an Element : crmlink_CSS
+11/08/2018 22:19:30 devpinoyLogger Clicking on an Element : accountstab_CSS
+11/08/2018 22:19:31 devpinoyLogger Clicking on an Element : createaccountbtn_CSS
+11/08/2018 22:19:31 devpinoyLogger Typing in an Element : accountname_CSS entered value as Raman
